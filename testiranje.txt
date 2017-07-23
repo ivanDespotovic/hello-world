@@ -1,1 +1,3 @@
 neki fajl dodajem
+
+Editujem sa servera
