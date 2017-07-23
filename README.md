@@ -1,4 +1,6 @@
 # hello-world
 Just another repository
 I'm learning how to use gitHub
-aaaaaa
+aaaaaa.
+
+Testiram push sa lokalnog racunara na server.
